@@ -6,6 +6,7 @@ import random
 import threading
 import sys
 import os
+from colorama import Fore, Back, Style
 from os import system, name
 
 print(Fore.RED + ''' _  _  ___  ___     ____  __    _____  _____  ____  
